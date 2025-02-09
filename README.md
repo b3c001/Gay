@@ -1,4 +1,3 @@
-![CeloXSec](https://tryhackme-images.s3.amazonaws.com/user-avatars/bb2abda0e77c0ace726a56d2ce08c0f0.png)
 
 # CeloXSec
 
